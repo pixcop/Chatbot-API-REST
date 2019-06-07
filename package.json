@@ -1,0 +1,22 @@
+{
+  "name": "chatbotadministration",
+  "version": "1.0.0",
+  "description": "ChatbotAdministration",
+  "main": "Chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tgeoffroy@bitbucket.org/tgeoffroy/chatbotadministration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tgeoffroy/chatbotadministration#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^11.5.0",
+    "express": "^4.17.1",
+    "rivescript": "^2.0.0"
+  }
+}
